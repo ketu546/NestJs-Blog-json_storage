@@ -1,0 +1,6 @@
+{
+    "titel": "New ways we're helping you find high-quality information",
+    "content": "By using our latest AI model, Multitask Unified Model (MUM), our systems can now understand the notion of consensus, which is when multiple high-quality sources on the web all agree on the same fact. Our systems can check snippet callouts (the word or words called out above the featured snippet in a larger font) against other high-quality sources on the web, to see if there’s a general consensus for that callout, even if sources use different words or concepts to describe the same thing. We've found that this consensus-based technique has meaningfully improved the quality and helpfulness of featured snippet callouts.",
+    "author": "Kironmoy Roy",
+    "slug":"New-ways-we're-helping-you-find-high-quality-information"
+}
